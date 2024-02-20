@@ -23,6 +23,7 @@
     color: $title;
     padding-bottom: 1px;
     transition: all 0.3s;
+    text-transform: uppercase;
     @extend %quicksand-400;
     &:hover {
       color: $accent;
