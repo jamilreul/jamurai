@@ -20,6 +20,7 @@
     "gulp-uglify": "3.0.2",
     "imagemin": "8.0.1",
     "jquery": "3.7.1",
-    "sass": "1.70.0"
+    "sass": "1.70.0",
+    "slick-carousel": "^1.8.1"
   }
 }
