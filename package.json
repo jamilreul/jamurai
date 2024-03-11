@@ -9,6 +9,7 @@
   "author": "James Reul",
   "license": "ISC",
   "devDependencies": {
+    "@fancyapps/ui": "^5.0.33",
     "browser-sync": "3.0.2",
     "del": "7.1.0",
     "gulp": "4.0.2",
